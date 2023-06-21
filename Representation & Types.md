@@ -21,5 +21,10 @@ The other big kind of information we want to represent in computers commonly is 
 
 There are of course other kinds of data - sound, pictures, videos just to name a few - but the principle remains the same. We translate the data into a number, which is easy to represent in a computer.
 
-Types
+# Types
 As is hopefully obvious now, there is no real way, just looking at a raw binary string, to know what that string represents. In fact, in a very real sense, there is no one thing which it does represent. For the data to mean anything, we must know how it is being encoded - otherwise it might as well just be a number.
+
+If we work in a very low level language - something like assembly - there is no way to do this; we must just remeber what the type of the data we are reading is. This is very error prone however, so in higher level languages we build an abstraction around the data to make reasoning easier. 
+
+Types are how we do this. Every language has a different type system, some are more extensive than others. For example, in C '80, many datatypes (i.e. booleans, characters) are represented as integers. 
+
