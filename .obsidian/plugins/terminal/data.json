@@ -1,0 +1,36 @@
+{
+  "addToCommand": true,
+  "addToContextMenu": true,
+  "createInstanceNearExistingOnes": true,
+  "errorNoticeTimeout": 0,
+  "focusOnNewInstance": true,
+  "hideStatusBar": "focused",
+  "language": "",
+  "lastReadChangelogVersion": "3.9.1",
+  "newInstanceBehavior": "newTab",
+  "noticeTimeout": 5,
+  "openChangelogOnUpdate": true,
+  "pinNewInstance": true,
+  "preferredRenderer": "dom",
+  "profiles": {
+    "1d463b5c-79f1-472e-818a-ef325024f947": {
+      "args": [],
+      "executable": "powershell",
+      "name": "Powershell",
+      "platforms": {
+        "win32": true
+      },
+      "pythonExecutable": "py",
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {},
+      "type": "integrated",
+      "useWin32Conhost": true
+    }
+  },
+  "recovery": {}
+}

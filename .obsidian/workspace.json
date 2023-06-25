@@ -11,11 +11,66 @@
             "id": "c2be829b59c4a4e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ADTs/Abstract Data Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ef252c6af10088c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\Jake\\Documents\\algorithms\\ADTs",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "powershell",
+                    "name": "Powershell",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "py",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {},
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": {
+                    "columns": 169,
+                    "data": "\u001b[8C\u001b[32mnew file:   .obsidian/plugins/embed-code-file/styles.css\r\n\r\n\u001b[36mJake\u001b[90m@\u001b[32mJakes-Uni-Desktop \u001b[90m{  \u001b[93m~\\Ξ\\algorithms  \u001b[90m} \u001b[38;2;255;255;255mgit(  master |   \u001b[34m~1 \u001b[38;2;255;255;255m|   \u001b[34m~4 \u001b[32m+7 \u001b[38;2;255;255;255m)\u001b[85C\u001b[0m    \r\nλ\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[51A\u001b[2C",
+                    "rows": 54
+                  }
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3c11c7ec77714b6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Arrays.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,18 +199,29 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "c2be829b59c4a4e9",
+  "active": "0ef252c6af10088c",
   "lastOpenFiles": [
+    "ADTs/Abstract Data Types.md",
+    "Data Structures/Arrays.md",
+    "ADTs/Stacks.md",
+    "ADTs/Lists.md",
+    "Analysis/Complexity.md",
+    "code/static.d.ts",
+    "Data Structures/Linked Lists.md",
+    "Fundamental Concepts/Representation & Types.md",
+    "Fundamental Concepts/Pointers.md",
+    "Untitled",
+    "Data Structures",
+    "code/stack.ts",
+    "code",
+    "ADTs/stack.ts",
+    "stack.ts",
     "Fundamental Concepts/Numerical Representations.md",
     "Analysis/Bachmann–Landau Notation.md",
-    "Analysis/Complexity.md",
-    "ADTs/Abstract Data Types.md",
-    "ADTs/Lists.md",
-    "Fundamental Concepts/Pointers.md",
-    "Fundamental Concepts/Representation & Types.md",
     "Pasted image 20230621124323.png",
     "Untitled.canvas",
     "2023-06-21.md",
